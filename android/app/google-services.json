@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820384568913",
+    "project_id": "rush-show",
+    "storage_bucket": "rush-show.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820384568913:android:3aa6bf8cff500dc0898a70",
+        "android_client_info": {
+          "package_name": "com.h.mortaja.rushshowdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820384568913-gmu4bgt6lqelh7b51ia7kefkh37cc4ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcVWLMV2U-sWsWkdNHfWj9Sk3wrL6Y5X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820384568913-gmu4bgt6lqelh7b51ia7kefkh37cc4ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
