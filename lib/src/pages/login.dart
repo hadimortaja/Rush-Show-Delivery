@@ -150,14 +150,7 @@ class _LoginWidgetState extends StateMVC<LoginWidget> {
                     textColor: Theme.of(context).hintColor,
                     child: Text(S.of(context).i_forgot_password),
                   ),
-                  MaterialButton(
-                    elevation: 0,
-                    onPressed: () {
-                      Navigator.of(context).pushReplacementNamed('/SignUp');
-                    },
-                    textColor: Theme.of(context).hintColor,
-                    child: Text(S.of(context).i_dont_have_an_account),
-                  ),
+               
                 ],
               ),
             )

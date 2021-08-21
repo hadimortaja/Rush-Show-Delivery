@@ -72,7 +72,6 @@ class MessageLookup extends MessageLookupByLibrary {
     "history" : MessageLookupByLibrary.simpleMessage("Histoire"),
     "home" : MessageLookupByLibrary.simpleMessage("Accueil"),
     "home_address" : MessageLookupByLibrary.simpleMessage("Adresse du domicile"),
-    "i_dont_have_an_account" : MessageLookupByLibrary.simpleMessage("Je n\'ai pas de compte?"),
     "i_forgot_password" : MessageLookupByLibrary.simpleMessage("J\'ai oublié le mot de passe?"),
     "i_have_account_back_to_login" : MessageLookupByLibrary.simpleMessage("J\'ai un compte? Retour connexion"),
     "i_remember_my_password_return_to_login" : MessageLookupByLibrary.simpleMessage("Je me souviens de mon mot de passe retour à la connexion"),

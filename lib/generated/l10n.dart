@@ -215,15 +215,7 @@ class S {
     );
   }
 
-  /// `I don't have an account?`
-  String get i_dont_have_an_account {
-    return Intl.message(
-      'I don\'t have an account?',
-      name: 'i_dont_have_an_account',
-      desc: '',
-      args: [],
-    );
-  }
+
 
   /// `Notifications`
   String get notifications {
